@@ -3,6 +3,12 @@ package main;
 public class HelloWorld {
 
 	/**
+	 * Constructor
+	 */
+	public HelloWorld(){
+
+	}
+	/**
 	 * Prints 'Hello World'
 	 * @param args
 	 */
