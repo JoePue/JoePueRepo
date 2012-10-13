@@ -13,7 +13,7 @@ public class HelloWorld {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		System.out.println("Hello World");
+		System.out.println("Hello World from Branch b-2012-10-14-jpu");
 	}
 
 }
